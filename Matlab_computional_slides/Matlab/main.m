@@ -1,0 +1,10 @@
+objective1(0.3, 1000)
+x1 = fmincon(@(x) objective1(x, 1000), 0.3, [], [], [], [], 0, 1)
+objective1(x1, 1000)
+
+objective2(0.5, 1000)
+x2 = fmincon(@(w) objective2(w, 1000), 0.5, [], [], [], [], 0, 1)
+x3 = fminsearch(@(w) objective2(w, 1000), 0.5)
+x3 = fminsearch(@(w) objective2(w, 10000), 0.5)
+objective2(x2)
+objective2(x3)
