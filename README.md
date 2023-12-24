@@ -1,7 +1,7 @@
 # Macro_and_Spatial_Economics_Notes
 The materials of Macroeconomics in Ph.D Study
 
-Useful Materials Link:
+<font color=Blue> Useful Materials Link:</font>
 
 1) https://wp.nyu.edu/markgertler/teaching/, begin from the RBC, it would be a great choice
 
@@ -11,9 +11,7 @@ Useful Materials Link:
 
 4) https://www.sas.upenn.edu/~jesusfv/teaching.html; Prof Jesús Fernández-Villaverde provided the materials about the computational methods in projection methods and perturbation methods in model solving.
 
-The materials of Urban Economics in Ph.D Study
-
-Useful Materials Link:
+<font color=Blue>Useful Materials Link:</font>
 
 1) UEA website：https://urbaneconomics.org/
 
@@ -21,7 +19,7 @@ Useful Materials Link:
 
 3) Gilles Duranton Lecture:https://thedocs.worldbank.org/en/doc/7d8f5ff1f24147782e84f69c5647944b-0050022023/related/YUE-Keynote-Gilles-Duranton.pdf
 
-Economists in Urban Economics:
+<font color=Blue>Economists in Urban Economics:</font>
 
 1) Vernon-Henderson：https://www.lse.ac.uk/geography-and-environment/people/academic-staff/vernon-henderson
    
@@ -49,7 +47,7 @@ Economists in Urban Economics:
 
 13) Fujita: Economics of Agglomeration(https://www.cambridge.org/core/books/economics-of-agglomeration/A4511C89C0FB751A89625BF97CDDA88B); Telling a good story from the Thünen model, the core-periphery model in progressively deeper depths, which is a traditional urban economics textbook.
     
-Quatitative Spatial Economics:
+<font color=Blue>Quatitative Spatial Economics:</font>
 
 1) Jonathan Eaton(E-K model in Trade):https://sites.google.com/site/eatonjonathanecon/;Technology, Geography, and Trade: https://www.jstor.org/stable/3082019; https://bpb-us-w2.wpmucdn.com/campuspress.yale.edu/dist/c/4257/files/2023/11/AR-61.pdf; slides:https://dspace.mit.edu/bitstream/handle/1721.1/73643/14-581-spring-2007/contents/lecture-notes/lecture_3.pdf
 
