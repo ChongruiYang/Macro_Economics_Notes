@@ -1,0 +1,10 @@
+%gen_parameters.m:   generate the artifical fundamentals and parametersfor model 1-3
+%gen_parameters2.m:   generate the artifical fundamentals and parametersfor model 4
+%solve model-1.m:   solve model-1 in slides
+%solve model-2.m:   solve model-2 in slides
+%solve model-3.m:   solve model-3 in slides
+%solve model-4.m:   solve model-4 in slides
+
+%main.m: generate parameters, solve model and conduct test
+
+%v2struct: add path of the v2struct file in matlab and then you can use the command "v2struct" 
