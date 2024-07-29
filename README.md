@@ -1,5 +1,5 @@
 # Macro_and_Spatial_Economics_Notes
-The materials of Macroeconomics in Ph.D Study
+The materials of Macroeconomics in Ph.D Study, also, please do not enter economic research if you want to get an Econ PHD position, it is toxic and run away!
 
 # Useful Materials Link:
 
