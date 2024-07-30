@@ -1,6 +1,8 @@
 # Macro_and_Spatial_Economics_Notes
 The materials of Macroeconomics in Ph.D Study, also, please do not take economic research seriously if you still want to get an Econ Ph.D position, it is toxic and run away!
 
+Just take the economic things easily and burn out without thinking.
+
 # Useful Materials Link:
 
 1) https://wp.nyu.edu/markgertler/teaching/, begin from the RBC, it would be a great choice
